@@ -1,0 +1,41 @@
+/*
+    Created on : 4. 12. 2022, 12:51:56
+    Author     : fisar
+*/
+
+.text-area{
+    -fx-text-fill: #ffffff;
+    -fx-background-color: rgba(53,89,119,0.4);
+}
+
+.text-area .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.text-area .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+
+.text-area .scroll-pane .content{
+    -fx-background-color: transparent;
+}
+
+.text-field {
+    -fx-text-fill: #ffffff;
+    -fx-background-color: rgba(53,89,119,0.4);
+}
+
+.text-field .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.text-field .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+
+.text-field .scroll-pane .content{
+    -fx-background-color: transparent;
+}
+

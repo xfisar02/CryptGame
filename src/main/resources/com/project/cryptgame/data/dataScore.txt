@@ -1,0 +1,10 @@
+Body	140
+Enyko	120
+Anezka	40
+Enyko	40
+test	20
+Enyko	20
+Anezka	20
+Anezka	20
+Anezka	20
+Test	20
