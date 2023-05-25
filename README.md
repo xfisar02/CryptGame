@@ -23,6 +23,11 @@ Uses Java and JavaFx.
 
 ## Implementation
 - Navigation is via FXML files
+- Menu is used to select the difficulty, enter a name for the player and view the score table
+- Game is accessed by pressing the play button in the menu, which is unlocked after filling in the player's name and confirming by pressing enter
+- According to the selected difficulty, 3 ciphers are automatically selected, which you can repeat until you return to the menu
+- Player gets points for correctly solving the cipher
+- If the player does not know what to do, there is a hint
 
 ## Screenshots from the game
 ![menu](https://github.com/xfisar02/CryptGame/blob/main/GameScreenshots/menuDesign.PNG)
@@ -37,4 +42,5 @@ Uses Java and JavaFx.
 ## How To play
 ### Executing the JAR File
 To play the game, the following steps can be followed:
-
+- An executable file is currently being prepared and will be uploaded later. In the meantime, the only option is to play directly in the development environment (InteliJ, Netbeans, ...). 
+- Project is using JavaFX SDK version 20.0.1
