@@ -13,7 +13,7 @@ The purpose of the project is to familiarize users with the basic issues of cryp
 Uses Java and JavaFx.
 
 ## Features
-- 3 difficulties (EASY, MEDIUM, HARD)
+- Three difficulties (EASY, MEDIUM, HARD)
 - PC Console Themed
 - Ciphers Available: Password Cracking, Morse Cipher, Caesar Cipher, Atbash Cipher, Polybius Cipher, Vigenere Cipher, Bifid Cipher
 - Saves score and player name
